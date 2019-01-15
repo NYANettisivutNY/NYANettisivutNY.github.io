@@ -1,2 +1,2 @@
 # NYANettisivutNY
-NYANettisivujen esimerkki sivut
+Simppeli sivu
